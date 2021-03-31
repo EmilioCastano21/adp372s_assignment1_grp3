@@ -1,4 +1,4 @@
-package za.ac.cput;
+package za.ac.cput.adp3_assignment1_grp3;
 
 /**
  * Hello world!
